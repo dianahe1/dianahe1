@@ -1,6 +1,6 @@
 - ☀️ Hi! I'm Diana, a HS senior in CA
 - 🌱 Currently learning Javascript
-- 🍄 Hobbies: reading, design, watching c-dramas, going on walks, being confused
+- 🍄 Hobbies: reading, design, watching c-dramas, going on walks, biking
 - ☁️ Discord: <a href="https://discord.com/users/749000981169176678" target="_blank">lightlyue#8481</a>
 
 <!---
