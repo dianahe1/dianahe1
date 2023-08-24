@@ -1,6 +1,6 @@
-- ☀️ Hi! I'm Diana, a HS senior in CA
-- 🌱 Currently learning Javascript
-- 🍄 Hobbies: reading, design, watching c-dramas, going on walks, biking
+- ☀️ Hi! I'm Diana, a CS major at Purdue
+- 🌱 Currently learning Swift
+- 🍄 Hobbies: reading, biking, going to the gym, watching c-dramas, going on walks, baking
 - ☁️ Discord: <a href="https://discord.com/users/749000981169176678" target="_blank">lightlyue#8481</a>
 
 <!---
